@@ -19,5 +19,12 @@ Screenshot of repo containing updated personal information (under 'changes made 
 
 
 # Activity 3 (Changing theme colour - CSS styling)
- ![screenshot_of_repo2](activity_screenshots/activity3.png)
+![screenshot_of_repo2](activity_screenshots/activity3.png)
 ![screenshot_of_webpage2](activity_screenshots/activity3p2.png)
+
+
+# Activity 4 (New Section + Embedding Google Maps)
+![screenshot_of_repo3](activity_screenshots/Activity4websiteJPG.JPG)
+![screenshot_of_embeddedMap](activity_screenshots/Activity4websiteMap.JPG)
+
+Screenshot featuring the addition of a new section on the SideNav - for locations traveled. Icon was used from https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css with scrollspy and other styling.
